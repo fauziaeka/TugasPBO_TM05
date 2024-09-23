@@ -51,19 +51,19 @@ Class ini digunakan untuk mengonversi hasil dari query SQL (dalam bentuk ResultS
 
 ## 🔧 Fungsi Tombol : 
 
-➕ **INSERT (Menambahkan Data)**:
+➕ **INSERT (Menambahkan Data)**
   
   Button ini berfungsi untuk menambahkan data pada 'Data Tiket'. Sebagai pengguna, kita diminta untuk mengisi informasi mengenai Id tiket, nama event, tanggal, harga, jumlah, dan lokasi event. Setelah dimasukkan, kita bisa menekan button Insert. Jika berhasil, akan muncul pesan 'Data Berhasil disimpan'. 
 
-🔄 **UPDATE (Memperbarui Data)**:
+🔄 **UPDATE (Memperbarui Data)**
   
   Button ini berfungsi untuk memperbarui data pada 'Data Tiket'. Pertama-tama masukkan Id tiket yang ingin diubah, kemudian masukkan informasi mengenai Id tiket, nama event, tanggal, harga, jumlah, dan lokasi event baru. Jika berhasil, sistem akan mencetak pemberitahuan bahwa 'Data berhasil diupdate'. 
 
-❌ **DELETE (Menghapus Data)**:
+❌ **DELETE (Menghapus Data)**
    
   Button ini berfungsi untuk menghapus data pada 'Data Tiket'. Pengguna bisa memasukkan data yang ingin dihapus atau bisa juga dengan mengeklik data yang ingin dihapus pada kolom list. Kemudian akan muncul pesan konfirmasi apakah pengguna ingin menghapus data atau tidak. Jika 'iya' data otomatis akan dihapus dan jika 'tidak' maka data akan batal dihapus. 
 
-🚪 **EXIT (Keluar)**:
+🚪 **EXIT (Keluar)**
   
   Saat ingin keluar dari halaman antarmuka, kita bisa menekan button Exit. Sistem otomatis akan keluar dari halaman yang menampilkan antarmuka dengan kembali ke halaman awal.  
 
