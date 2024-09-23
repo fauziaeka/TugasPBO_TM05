@@ -17,23 +17,17 @@ Java Swing adalah sebuah toolkit atau pustaka untuk membangun antarmuka pengguna
 ## 🛠️ Komponen 
 Java Swing memiliki berbagai komponen utama yang digunakan untuk membangun antarmuka pengguna grafis (GUI). Berikut adalah beberapa komponen yang digunakan dalam aplikasi Swing 'Data Tiket':
 
-## 1. **JFrame** : 
-Jendela utama aplikasi. Berfungsi untuk menyediakan area yang menempatkan komponen GUI seperti tombol, label, dan panel. 
+1. **JFrame** : Jendela utama aplikasi. Berfungsi untuk menyediakan area yang menempatkan komponen GUI seperti tombol, label, dan panel. 
 
-## 2. **JPanel** : 
-Tempat untuk mengelompokkan komponen GUI. Berfungsi untuk membantu dalam pengelolaan tata letak dan organisasi komponen. 
+2. **JPanel** : Tempat untuk mengelompokkan komponen GUI. Berfungsi untuk membantu dalam pengelolaan tata letak dan organisasi komponen. 
 
-## 3. **JButton** : 
-Tombol yang dapat diklik. Berfungsi untuk mengaktifkan tindakan tertentu ketika diklik. 
+3. **JButton** : Tombol yang dapat diklik. Berfungsi untuk mengaktifkan tindakan tertentu ketika diklik. 
 
-## 4. **JLabel** : 
-Label teks untuk menampilkan informasi. Berfungsi untuk menampilkan teks statis atau ikon. 
+4. **JLabel** : Label teks untuk menampilkan informasi. Berfungsi untuk menampilkan teks statis atau ikon. 
 
-## 5. **JTextField** : 
-Kolom input teks untuk input data. Pada bagian ini memungkinkan kita memasukkan satu baris teks saja. 
+5. **JTextField** : Kolom input teks untuk input data. Pada bagian ini memungkinkan kita memasukkan satu baris teks saja. 
 
-## 6. **JList** : 
-Daftar yang menampilkan sejumlah item. Bagian ini memungkinkan kita memilih satu atau beberapa item dari daftar. 
+6. **JList** : Daftar yang menampilkan sejumlah item. Bagian ini memungkinkan kita memilih satu atau beberapa item dari daftar. 
 
 ---
 
